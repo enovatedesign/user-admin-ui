@@ -2,7 +2,7 @@
 
 Forked from https://github.com/andylash/meteor-accounts-admin-ui-bootstrap-3 and did a few minor fixes.
 
-If you are using the [kaoskeya:meteor-admin](https://atmospherejs.com/kaoskeya/admin) package, you might want to consider using [kaoskeya:meteor-accounts-autoform-admin](https://atmospherejs.com/kaoskeya/meteor-accounts-autoform-admin) instead for managing your users. I'll be working more on that and will be adding more features soon.
+If you are using the [kaoskeya:meteor-admin](https://atmospherejs.com/kaoskeya/admin) package, you might want to consider using [kaoskeya:accounts-autoform-admin](https://atmospherejs.com/kaoskeya/accounts-autoform-admin) instead for managing your users. I'll be working more on that and will be adding more features soon.
 
 A roles based account management system using bootstrap 3 for Meteor.
 

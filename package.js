@@ -2,7 +2,7 @@
 
 Package.describe({
   summary: "A roles based account management system using bootstrap 3",
-  version: "0.3.3",
+  version: "0.3.3_1",
   git: "https://github.com/kaoskeya/meteor-accounts-admin-ui-bootstrap-3.git",
   name: 'kaoskeya:accounts-admin-ui-bootstrap-3'
 });
