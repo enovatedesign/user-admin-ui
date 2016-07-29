@@ -51,12 +51,8 @@ Template.accountsAdmin.helpers({
       var fields = AccountsAdminFields;
     } else {
       var fields = [{
-        key: '',
-        label: '',
-        tmpl: Template.accountsAdminControlPanel
-      }, {
         key: 'username',
-        label: 'username'
+        label: 'Username'
       }, {
         key: 'profile.name',
         label: 'Name'
@@ -96,6 +92,13 @@ Template.accountsAdmin.helpers({
           label: 'Online?'
         });
       }
+
+      // Add actions as final columns
+      fields.push({
+        key: '',
+        label: 'Actions',
+        tmpl: Template.accountsAdminControlPanel
+      })
 
     }
     return fields;
