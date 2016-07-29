@@ -1,10 +1,10 @@
 "use strict";
 
 Package.describe({
-  summary: "A roles based account management system using bootstrap 3",
-  version: "0.3.3_1",
-  git: "https://github.com/kaoskeya/meteor-accounts-admin-ui-bootstrap-3.git",
-  name: 'kaoskeya:accounts-admin-ui-bootstrap-3'
+  summary: "A Meteor JS roles based account management system using Bootstrap 3",
+  version: "1.0.0",
+  git: "https://github.com/enovatedesign/user-admin-ui.git",
+  name: 'enovatedesign:user-admin-ui'
 });
 
 Package.onUse(function (api) {
